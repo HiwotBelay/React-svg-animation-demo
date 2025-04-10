@@ -11,6 +11,7 @@ This is a simple yet engaging project showcasing SVG animations integrated with 
 ## Technologies Used
 
 - **React**: For building the UI and handling the component lifecycle.
+- **TypeScript**: For adding static type-checking to JavaScript, ensuring safer and more reliable code.
 - **CSS**: For styling and handling animations.
 - **SVG**: For creating scalable vector graphics and animations.
   
