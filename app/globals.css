@@ -1,0 +1,26 @@
+body {
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  max-width: 300px;
+  width: 100%;
+}
+
+svg {
+  display: block;
+}
+
+#XMLID_226_ {
+  stroke-dasharray: 600;
+  stroke-dashoffset: 600;
+  stroke: #880e4f;
+  stroke-width: 2;
+  stroke-linejoin: square;
+  stroke-linecap: butt;
+}
