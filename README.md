@@ -1,6 +1,6 @@
 # React SVG Animation Demo
 
-This is a simple yet engaging project showcasing SVG animations integrated with React. The project demonstrates a smooth stroke animation applied to an SVG element, utilizing React hooks for controlling animation behavior.
+This is a simple yet engaging project showcasing SVG animations integrated with React. The project demonstrates a smooth stroke animation applied to an SVG element, utilizing React hooks for controlling animation behavior and structure.
 
 ## Features
 
